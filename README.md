@@ -17,7 +17,6 @@ A fully serverless and secure REST API built using:
 - 📄 `Project_Report.pdf`
 - 📊 `Presentation_Slides.pptx`
 - 🐍 `sigv4_test_script.py`
-- 🖼️ `screenshots/` (step-by-step screenshots)
 
 ## 🧠 Skills Learned
 - AWS Serverless Architecture
